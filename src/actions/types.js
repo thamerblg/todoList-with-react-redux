@@ -1,0 +1,6 @@
+export const ADDTASK = "ADDTASK";
+export const DELETTASK = "DELETTASK";
+export const TOGGLECOMPLETEDTASK = "TOGGLECOMPLETEDTASK";
+export const SETCURRENTTASK = "SETCURRENTTASK";
+export const EDITTASK = "EDITTASK";
+export const FILTERTASK = "FILTERTASK";
